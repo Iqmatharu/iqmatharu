@@ -4,4 +4,5 @@ I am Computer Science student with a passion for mobile development (iOS and And
 
 ## Languages and Tools
 
-![](https://skillicons.dev/icons?i=python,javascript,typescript,java,react,bootstrap,pandas,matplotlib,scikit,git,github,c,c++,r,html,css,vscode,pycharm,eclipse,latex)
+![](https://skillicons.dev/icons?i=javascript,typescript,java,react,git,github,c,c++,html,css,vscode,latex,swift,PHP,JSON)
+
